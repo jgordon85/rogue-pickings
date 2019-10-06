@@ -15,6 +15,7 @@ body {
 
 .container{
 	max-width: 1200px;
+	width: 90%;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -120,6 +121,7 @@ header nav ul li a{
 .section-two,
 .section-three {
 	height: auto;
+	width: 100%;
 	border-top: 1px solid #eee;
 }
 
